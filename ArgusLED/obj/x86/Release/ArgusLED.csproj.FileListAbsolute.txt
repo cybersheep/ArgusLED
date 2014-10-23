@@ -1,0 +1,14 @@
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusLED.exe
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusLED.pdb
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusTV.Client.Common.dll
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusTV.DataContracts.dll
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusTV.Recorder.Entities.dll
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusTV.ServiceAgents.dll
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\bin\Release\ArgusTV.ServiceContracts.dll
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\ArgusLED.Form1.resources
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\ArgusLED.Properties.Resources.resources
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\ArgusLED.exe
+C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Release\ArgusLED.pdb
