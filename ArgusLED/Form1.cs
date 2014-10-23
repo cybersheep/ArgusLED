@@ -14,7 +14,7 @@ using ArgusTV.Recorder.Entities;
 using ArgusTV.Client.Common;
 using System.Diagnostics;
 
-// 23-Oct 2014: minor change for GitHub testing v0.2
+// 23-Oct 2014: minor change for GitHub testing v0.5
 
 namespace ArgusLED
 {
