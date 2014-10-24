@@ -12,3 +12,5 @@ C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Debug\GenerateResour
 C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Debug\ArgusLED.exe
 C:\Users\rharker\development\mine\ArgusLED\ArgusLED\obj\x86\Debug\ArgusLED.pdb
+C:\Users\Ecrio\Documents\GitHub\ArgusLED\ArgusLED\obj\x86\Debug\ArgusLED.exe
+C:\Users\Ecrio\Documents\GitHub\ArgusLED\ArgusLED\obj\x86\Debug\ArgusLED.pdb
